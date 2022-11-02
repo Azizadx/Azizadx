@@ -1,3 +1,7 @@
+## How many stalkers I have
+ 
+<img src="https://gpvc.arturio.dev/azizadx" alt="Profile views"/>
+
 - 👋 Hi, I’m @Azizadx
 - 👀 I’m interested in Web3, blockchain
 - 🌱 I’m currently learning solidity, rust, etheruem, solana
