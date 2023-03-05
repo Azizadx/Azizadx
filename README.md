@@ -1,5 +1,15 @@
 # 💫 About Me:
-🌟 Prepare to enter the world of decentralized magic with me! 🪄<br><br>🔭 As a blockchain sorcerer, I'm currently enchanting Solidity and Ethereum with my coding spells, crafting smart contracts that will change the world.<br><br>👯 I'm searching for fellow wizards and witches to join forces with on my quest for open-source greatness in the web3 realm. Let's band together and create magic!<br><br>🧙‍♀️ But even the most powerful sorcerers need a little help from time to time. I'm currently seeking a mentor to guide me in mastering the art of Rust and the Solana blockchain. Who wants to take on an apprentice?<br><br>💬 I'm happy to share my wisdom and knowledge of blockchain with those who seek it. Ask me anything about the mysteries of the decentralized world.<br><br>🎉 So grab your wand and join me on this wild ride through the world of blockchain magic!
+🌟 Hello there, I'm Nasrallah Hassan, but you can call me Azizadx! I go by she/her pronouns and I'm excited to welcome you to the world of decentralized magic! 🪄
+
+🔭 As a blockchain sorcerer, I'm currently enchanting Solidity and Ethereum with my coding spells, crafting smart contracts that will change the world.
+
+👯 I'm searching for fellow wizards and witches to join forces with on my quest for open-source greatness in the web3 realm. Let's band together and create magic!
+
+🧙‍♀️ But even the most powerful sorcerers need a little help from time to time. I'm currently seeking a mentor to guide me in mastering the art of Rust and the Solana blockchain. Who wants to take on an apprentice?
+
+💬 Don't hesitate to ask me anything about the mysteries of the decentralized world. I'm happy to share my wisdom and knowledge of blockchain with those who seek it.
+
+📧 Want to collaborate or just say hello? You can reach me at azizadx.tech@gmail.com. Let's create some magic together! 🎉
 
 
 ## 🌐 Socials:
