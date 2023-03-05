@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 Hello there, I'm Nasrallah Hassan, but you can call me Azizadx! I go by she/her pronouns and I'm excited to welcome you to the world of decentralized magic! 🪄
+🌟 Hello there, I'm Nasrallah Hassan, but you can call me Azizadx! and I'm excited to welcome you to the world of decentralized magic! 🪄
 
 🔭 As a blockchain sorcerer, I'm currently enchanting Solidity and Ethereum with my coding spells, crafting smart contracts that will change the world.
 
