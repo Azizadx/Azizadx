@@ -23,7 +23,8 @@ const azizadx = {
         devOps: ["Docker🐳", "Nginx"],
         DB: ["mongo", "MySql", "sqlite", "Postgres"],
         vectorDB: ["Weaviate", "Chroma", "Pinecone"], 
-        interset: ["ZKML","Sentiment analysis","RNN", "RAG", "QLoRA"]
+        interests: ["Zero-Knowledge Machine Learning (ZKML)", "Sentiment Analysis", "Recurrent Neural Networks (RNN)", "Retrieval-Augmented Generation (RAG)", "Quantum-LoRa Architecture (QLoRA)"]
+
     },
 };
 ```
