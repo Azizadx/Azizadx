@@ -36,6 +36,10 @@ npx azizadx
 ![npx azizadx _home_azizadx 4_6_2024 1_24_41 AM](https://github.com/Azizadx/Azizadx/assets/45791956/605956a7-87a1-4f70-8f34-c800c7693944)
 
 
+#### Subscribe to Newsletters 📧
+<img src="https://github.com/Azizadx/Azizadx/assets/45791956/fe2c1c47-0698-4d0a-9b07-394a0121ab8f" width="300" height="auto">
+
+
 
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=azizadx)](https://github.com/ryo-ma/github-profile-trophy)
