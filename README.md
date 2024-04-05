@@ -37,8 +37,9 @@ npx azizadx
 
 
 #### Subscribe to Newsletters 📧
-<img src="https://github.com/Azizadx/Azizadx/assets/45791956/fe2c1c47-0698-4d0a-9b07-394a0121ab8f" width="300" height="auto">
-
+<a href="https://azizadx.substack.com" target="_blank">
+  <img src="https://github.com/Azizadx/Azizadx/assets/45791956/fe2c1c47-0698-4d0a-9b07-394a0121ab8f" width="300" height="auto">
+</a>
 
 
 ---
