@@ -1,6 +1,5 @@
 ### 👋 Welcome
-
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Who am I...  
 ```javascript
 const azizadx = {
     fullName: "Nasrallah Hassan",
@@ -23,11 +22,12 @@ const azizadx = {
         },
         devOps: ["Docker🐳", "Nginx"],
         DB: ["mongo", "MySql", "sqlite", "Postgres"],
-        vectorDB: ["Weaviate", "Chroma", "Pinecone"]
+        vectorDB: ["Weaviate", "Chroma", "Pinecone"], 
+        interset: ["ZKML","Sentiment analysis","RNN", "RAG", "QLoRA"]
     },
 };
 ```
-👇 Hit in your console or terminal to connect with me.
+👇 Feel free to contact me directly through your terminal.
 
 ```bash
 npx azizadx
