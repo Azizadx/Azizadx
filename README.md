@@ -3,7 +3,7 @@
 ```javascript
 const azizadx = {
     fullName: "Nasrallah Hassan",
-    onlineNmae: "Azizadx",
+    onlineName: "Azizadx",
     code: ["Javascript", "Python", "TS", "C++", "C",  & "Anything Hype"],
     skills: {
         ML: ["Scikit-learn","TensorFlow", "PyTorch", "Predictive Analytics", "NLP"],
