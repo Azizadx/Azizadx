@@ -1,4 +1,7 @@
-### 👋 Welcome
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hey+There!+I'm+Nasrallah+" />
+</h3>
+
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Who am I...  
 ```javascript
 const azizadx = {
@@ -35,13 +38,18 @@ npx azizadx
 ```
 ![npx azizadx _home_azizadx 4_6_2024 1_24_41 AM](https://github.com/Azizadx/Azizadx/assets/45791956/605956a7-87a1-4f70-8f34-c800c7693944)
 
+### 📊 Stats
 
-#### Subscribe to Newsletters 📧
-<a href="https://azizadx.substack.com" target="_blank">
-  <img src="https://github.com/Azizadx/Azizadx/assets/45791956/fe2c1c47-0698-4d0a-9b07-394a0121ab8f" width="300" height="auto">
-</a>
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=azizadx&theme=tokyonight)  
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azizadx&theme=tokyonight)
 
 
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=azizadx)](https://github.com/ryo-ma/github-profile-trophy)
 ---
+
+
+#### Subscribe to Newsletters 📧
+<a href="https://azizadx.substack.com" target="_blank">
+  <img src="https://github.com/Azizadx/Azizadx/assets/45791956/fe2c1c47-0698-4d0a-9b07-394a0121ab8f" width="300" height="auto">
+</a>
