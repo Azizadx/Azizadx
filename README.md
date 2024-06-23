@@ -35,6 +35,11 @@ const azizadx = {
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [LLM Finetuning: Enabling Quality Embedding and Text Generation for Amharic Language](https://azizadx.hashnode.dev/llm-finetuning-enabling-quality-embedding-and-text-generation-for-amharic-language)
+- [Precision RAG](https://azizadx.hashnode.dev/precision-rag)
+- [Redash chat add-on](https://azizadx.hashnode.dev/redash-chat-add-on)
+- [Streamlit Source Code Deep Dive](https://azizadx.hashnode.dev/streamlit-source-code-deep-dive)
+- [Mastering the Foundations](https://azizadx.hashnode.dev/mastering-the-foundations)
 <!-- HASHNODE:END -->
 
 👇 Feel free to contact me directly through your terminal.
